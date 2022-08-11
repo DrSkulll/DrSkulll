@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<a href="https://github.com/mspatel18/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspatel18&layout=compact&theme=github_dark" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mspatel18&theme=github_dark" alt="mspatel18" />
+<a href="https://github.com/mspatel18/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspatel18&layout=compact&theme=vision-friendly-dark" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mspatel18&theme=vision-friendly-dark" alt="mspatel18" />
 <br/>
 
 </div>
