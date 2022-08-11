@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <h2>💻 A passionate learning developer from India</h2> 
 <h2>🌱 I’m currently learning DSA & Web Development</h2>
 
-<h2>  ● Github Stats </h2> 
+<h2>🚀 Github Stats </h2> 
 
 <div align="center">
 
-<a href="https://github.com/mspatel18/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspatel18&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mspatel18&theme=tokyonight" alt="mspatel18" />
+<a href="https://github.com/mspatel18/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspatel18&layout=compact&theme=github_dark" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mspatel18&theme=github_dark" alt="mspatel18" />
 <br/>
 
 </div>
