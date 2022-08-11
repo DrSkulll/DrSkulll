@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<h1>ʜᴇʏ ᴛʜᴇʀᴇ ɪ'ᴍ MANN PATEL ~ </h1> 
+<h1>Hi, 👋 I am Mann Patel </h1> 
 </div>
 
-<h2> ● Full Stack Web-Developer || Game Developer - Unreal Engine </h2> 
+<h2>A passionate learning developer from India</h2> 
+<h2>🌱 I’m currently learning DSA & Web Development</h2>
 
 <h2>  ● Github Stats </h2> 
 
@@ -30,14 +31,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=mspatel18&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=mspatel18.mspatel18)
-
-</div>
-<h2></h2>
-<a href="https://github.com/mspatel18/github-readme-activity-graph"><img alt="Om's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mspatel18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <h2>  ● Connect with me on </h2>
 
