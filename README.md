@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<h1>ʜᴇʏ ᴛʜᴇʀᴇ ɪ'ᴍ ᴏᴍ ʟɪᴍᴅɪᴡᴀʟᴀ ~ </h1> 
+<h1>ʜᴇʏ ᴛʜᴇʀᴇ ɪ'ᴍ MANN PATEL ~ </h1> 
 </div>
 
 <h2> ● Full Stack Web-Developer || Game Developer - Unreal Engine </h2> 
